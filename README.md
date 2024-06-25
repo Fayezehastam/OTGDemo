@@ -1,5 +1,3 @@
-# OTGDemo
-to create automation test suits
 name: Cypress Tests
 on: [push]
 jobs:
